@@ -32,7 +32,7 @@ class App extends React.Component {
         
         return (
             <div className={styles.container}>
-                <img className={styles.image} src={image} alt="App-Logo" /><br/>
+                <img className={styles.image} src={image} alt="App-Logo" />
                 <CountrySelect handleCountryChange={this.handleCountryChange} />
                <Cards data={data} />
                <Chart data={data} country={country} />
