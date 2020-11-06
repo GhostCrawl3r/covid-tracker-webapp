@@ -1,6 +1,7 @@
 {
   "name": "Nick's COVID-19 Web Application",
   "version": "0.1.0",
+  "homepage": "covidtracker.interstellaragency.co.uk",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
